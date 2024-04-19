@@ -416,26 +416,6 @@
   },
   {
     "page": 1,
-    "node_id": "637",
-    "date": "14  March,  2024",
-    "parties": "Abbott Laboratories, Abbott Diabetes Care Inc., Abbott France, Abbott (S.V./N.V.), Abbott B.V., Abbott S.r.l., Abbott Scandinavia Aktiebolag, Abbott GmbH, Abbott Diagnostics GmbH, Abbott Logistics B.V.\nv.\nDexCom, Inc",
-    "case_number": "",
-    "order_decision_reference": "ORD_16789/2024",
-    "type_of_action": "Decision By Default",
-    "court_division": "Court of Appeal - Luxembourg (LU)",
-    "language_of_proceedings": "English",
-    "headnotes": "",
-    "keywords": "",
-    "link": [
-      {
-        "href": "https://www.unified-patent-court.org//sites/default/files/files/api_order/BDA82B4BDFC613EE7447903C6F5306DB_en.pdf",
-        "title": "BDA82B4BDFC613EE7447903C6F5306DB_en.pdf",
-        "text": "  EN"
-      }
-    ]
-  },
-  {
-    "page": 1,
     "node_id": "648",
     "date": "14  March,  2024",
     "parties": "Abbott Laboratories, Abbott Diabetes Care Inc., Abbott France, Abbott (S.V./N.V.), Abbott B.V., Abbott S.r.l., Abbott Scandinavia Aktiebolag, Abbott GmbH, Abbott Diagnostics GmbH, Abbott Logistics B.V.\nv.\nDexCom, Inc ",
@@ -456,6 +436,26 @@
   },
   {
     "page": 1,
+    "node_id": "637",
+    "date": "14  March,  2024",
+    "parties": "Abbott Laboratories, Abbott Diabetes Care Inc., Abbott France, Abbott (S.V./N.V.), Abbott B.V., Abbott S.r.l., Abbott Scandinavia Aktiebolag, Abbott GmbH, Abbott Diagnostics GmbH, Abbott Logistics B.V.\nv.\nDexCom, Inc",
+    "case_number": "",
+    "order_decision_reference": "ORD_16789/2024",
+    "type_of_action": "Decision By Default",
+    "court_division": "Court of Appeal - Luxembourg (LU)",
+    "language_of_proceedings": "English",
+    "headnotes": "",
+    "keywords": "",
+    "link": [
+      {
+        "href": "https://www.unified-patent-court.org//sites/default/files/files/api_order/BDA82B4BDFC613EE7447903C6F5306DB_en.pdf",
+        "title": "BDA82B4BDFC613EE7447903C6F5306DB_en.pdf",
+        "text": "  EN"
+      }
+    ]
+  },
+  {
+    "page": 1,
     "node_id": "621",
     "date": "14  March,  2024",
     "parties": "Laser Components SAS",
@@ -470,6 +470,26 @@
       {
         "href": "https://www.unified-patent-court.org//sites/default/files/files/api_order/DF5DB150860F3F0FCBA47E3BEFC20D30_fr.pdf",
         "title": "DF5DB150860F3F0FCBA47E3BEFC20D30_fr.pdf",
+        "text": "  EN"
+      }
+    ]
+  },
+  {
+    "page": 1,
+    "node_id": "649",
+    "date": "11  March,  2024",
+    "parties": "Netgear International Limited, NETGEAR Deutschland GmbH, Netgear Inc.\nv.\nHuawei Technologies Co. Ltd",
+    "case_number": "",
+    "order_decision_reference": "ORD_13025/2024",
+    "type_of_action": "Appeal RoP220.2",
+    "court_division": "Court of Appeal - Luxembourg (LU)",
+    "language_of_proceedings": "German",
+    "headnotes": "",
+    "keywords": "",
+    "link": [
+      {
+        "href": "https://www.unified-patent-court.org//sites/default/files/files/api_order/9B84129A4127809C2630FCB9DDDF1152_de.pdf",
+        "title": "9B84129A4127809C2630FCB9DDDF1152_de.pdf",
         "text": "  EN"
       }
     ]
@@ -510,26 +530,6 @@
       {
         "href": "https://www.unified-patent-court.org//sites/default/files/files/api_order/80FDD1E93D96B1D5B515011A2760EBAB_de.pdf",
         "title": "80FDD1E93D96B1D5B515011A2760EBAB_de.pdf",
-        "text": "  EN"
-      }
-    ]
-  },
-  {
-    "page": 1,
-    "node_id": "649",
-    "date": "11  March,  2024",
-    "parties": "Netgear International Limited, NETGEAR Deutschland GmbH, Netgear Inc.\nv.\nHuawei Technologies Co. Ltd",
-    "case_number": "",
-    "order_decision_reference": "ORD_13025/2024",
-    "type_of_action": "Appeal RoP220.2",
-    "court_division": "Court of Appeal - Luxembourg (LU)",
-    "language_of_proceedings": "German",
-    "headnotes": "",
-    "keywords": "",
-    "link": [
-      {
-        "href": "https://www.unified-patent-court.org//sites/default/files/files/api_order/9B84129A4127809C2630FCB9DDDF1152_de.pdf",
-        "title": "9B84129A4127809C2630FCB9DDDF1152_de.pdf",
         "text": "  EN"
       }
     ]
@@ -719,7 +719,7 @@
     "type_of_action": "Generic application",
     "court_division": "Court of First Instance - Paris (FR) Local Division",
     "language_of_proceedings": "English",
-    "headnotes": "As United Kingdom is a non-EU country, service was effected by the Court in accordance with the Hague Service Convention under R. 274 RoP. It is justified, under R. 275.2 RoP, when service has not been completed yet, to accept the alternative method propo\n          \n        ",
+    "headnotes": "As United Kingdom is a non-EU country, service was effected by the Court in accordance with the Hague Service Convention under R. 274 RoP. It is justified, under R. 275.2 RoP, when service has not been completed yet, to accept the alternative method proposed by the Claimant when he justified having performed service by his own means by sending a letter via FEDEX and DHL and provided a bailiff’s report on the content of the letter sent, the sending and the receipt of this letter\n          \n        ",
     "keywords": "Service, The Hague Convention, Alternative method under R.275.2.\n          \n        ",
     "link": [
       {
