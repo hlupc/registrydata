@@ -1,6 +1,71 @@
 [
   {
     "page": 0,
+    "node_id": "667",
+    "date": "18  April,  2024",
+    "parties": "Daedalus Prime LLC\nv.\nXiaomi Technology Netherlands B.V., Xiaomi Inc., Xiaomi Technology Germany GmbH, MediaTek Inc. (Headquarters), Xiaomi Communications Co., Ltd.",
+    "case_number": "",
+    "order_decision_reference": "ORD_20986/2024",
+    "type_of_action": "Generic Order",
+    "court_division": "Court of First Instance - Hamburg (DE) Local Division",
+    "language_of_proceedings": "English",
+    "headnotes": "",
+    "keywords": "",
+    "link": [
+      {
+        "href": "https://www.unified-patent-court.org//sites/default/files/files/api_order/56A0DBFDB63E8FC2C1C05ABBAB22E808_en.pdf",
+        "title": "56A0DBFDB63E8FC2C1C05ABBAB22E808_en.pdf",
+        "text": "  EN"
+      }
+    ]
+  },
+  {
+    "page": 0,
+    "node_id": "661",
+    "date": "17  April,  2024",
+    "parties": "Curio Bioscience Inc. \nv.\n10x Genomics, Inc. ",
+    "case_number": "",
+    "order_decision_reference": "ORD_18194/2024",
+    "type_of_action": "Appeal RoP220.1",
+    "court_division": "Court of Appeal - Luxembourg (LU)",
+    "language_of_proceedings": "German",
+    "headnotes": "",
+    "keywords": "",
+    "link": [
+      {
+        "href": "https://www.unified-patent-court.org//sites/default/files/files/api_order/410DE28BFAD1A8B205DCE14353C75FC1_de.pdf",
+        "title": "410DE28BFAD1A8B205DCE14353C75FC1_de.pdf",
+        "text": "  EN"
+      },
+      {
+        "href": "https://www.unified-patent-court.org//sites/default/files/files/api_order/ORDER%20final%20EN.pdf",
+        "title": "ORDER final EN.pdf",
+        "text": "  EN"
+      }
+    ]
+  },
+  {
+    "page": 0,
+    "node_id": "668",
+    "date": "15  April,  2024",
+    "parties": "Advanced Bionics GmbH, Advanced Bionics AG, Advanced Bionics Sarl ",
+    "case_number": "",
+    "order_decision_reference": "ORD_13321/2024",
+    "type_of_action": "Generic application",
+    "court_division": "Court of First Instance - Mannheim (DE) Local Division",
+    "language_of_proceedings": "English",
+    "headnotes": "1-An application according to Art. 49 (5) UPCA and Rule 323.1 RoP can be made at any time until the Statement of Defence has to be lodged according to Rule 23 RoP. Should the different options offered by the RoP be provided with the purpose to reach an agreement on the language to be used before forwarding the request to the President of the CFI, this interpretation is not in contradiction with such aim as within the time-limit laid down in the RoP to lodge the Statement of Defence, it remains possible to file a procedural application pursuant R. 321 or 322 RoP and later on refer to R. 323.  – 2. The decision whether or not to change the language of the proceedings into the language in which the patent was granted shall be determined with regard to the respective interests at stake, a fairness issue can occur if one party compared to the other(s), is remarkably disadvantaged by the conditions in which it has to organize its defence due to the language of the proceedings, strategical choices relating to the constitution of the team, although influencing the general management of the cases, is not obviously affecting the conditions under which the defence is exercised.\n          \n        ",
+    "keywords": "language of the proceedings – admissibility and merits of the Application.\n          \n        ",
+    "link": [
+      {
+        "href": "https://www.unified-patent-court.org//sites/default/files/files/api_order/8B3C4D3F53FB4AB14231FC86EC73F215_en.pdf",
+        "title": "8B3C4D3F53FB4AB14231FC86EC73F215_en.pdf",
+        "text": "  EN"
+      }
+    ]
+  },
+  {
+    "page": 0,
     "node_id": "658",
     "date": "11  April,  2024",
     "parties": "Toyota Motor Europe",
@@ -126,6 +191,26 @@
   },
   {
     "page": 0,
+    "node_id": "651",
+    "date": "3  April,  2024",
+    "parties": "Juul Labs, Inc.\nv.\nNJOY Netherlands B.V.",
+    "case_number": "",
+    "order_decision_reference": "ORD_598223/2023",
+    "type_of_action": "Appeal RoP220.2",
+    "court_division": "Court of Appeal - Luxembourg (LU)",
+    "language_of_proceedings": "English",
+    "headnotes": "",
+    "keywords": "",
+    "link": [
+      {
+        "href": "https://www.unified-patent-court.org//sites/default/files/files/api_order/B6EFB28B2527A879F7DD34B015EF8D43_en.pdf",
+        "title": "B6EFB28B2527A879F7DD34B015EF8D43_en.pdf",
+        "text": "  EN"
+      }
+    ]
+  },
+  {
+    "page": 0,
     "node_id": "638",
     "date": "3  April,  2024",
     "parties": "Juul Labs, Inc.\nv.\nNJOY Netherlands B.V.",
@@ -200,26 +285,6 @@
       {
         "href": "https://www.unified-patent-court.org//sites/default/files/files/api_order/72DEEAF87F8A2F39694BA0145625508D_en.pdf",
         "title": "72DEEAF87F8A2F39694BA0145625508D_en.pdf",
-        "text": "  EN"
-      }
-    ]
-  },
-  {
-    "page": 0,
-    "node_id": "651",
-    "date": "3  April,  2024",
-    "parties": "Juul Labs, Inc.\nv.\nNJOY Netherlands B.V.",
-    "case_number": "",
-    "order_decision_reference": "ORD_598223/2023",
-    "type_of_action": "Appeal RoP220.2",
-    "court_division": "Court of Appeal - Luxembourg (LU)",
-    "language_of_proceedings": "English",
-    "headnotes": "",
-    "keywords": "",
-    "link": [
-      {
-        "href": "https://www.unified-patent-court.org//sites/default/files/files/api_order/B6EFB28B2527A879F7DD34B015EF8D43_en.pdf",
-        "title": "B6EFB28B2527A879F7DD34B015EF8D43_en.pdf",
         "text": "  EN"
       }
     ]
@@ -350,27 +415,7 @@
     ]
   },
   {
-    "page": 0,
-    "node_id": "648",
-    "date": "14  March,  2024",
-    "parties": "Abbott Laboratories, Abbott Diabetes Care Inc., Abbott France, Abbott (S.V./N.V.), Abbott B.V., Abbott S.r.l., Abbott Scandinavia Aktiebolag, Abbott GmbH, Abbott Diagnostics GmbH, Abbott Logistics B.V.\nv.\nDexCom, Inc ",
-    "case_number": "",
-    "order_decision_reference": "ORD_16796/2024",
-    "type_of_action": "Decision By Default",
-    "court_division": "Court of Appeal - Luxembourg (LU)",
-    "language_of_proceedings": "English",
-    "headnotes": "Under Rule 220.2 RoP an appeal from an order without leave is inadmissible from the outset and, as such, cannot\nbe withdrawn.\n          \n        ",
-    "keywords": "Inadmissibility, leave to appeal.\n          \n        ",
-    "link": [
-      {
-        "href": "https://www.unified-patent-court.org//sites/default/files/files/api_order/32F3738613007CB6B5F4AC07A5CB2530_en.pdf",
-        "title": "32F3738613007CB6B5F4AC07A5CB2530_en.pdf",
-        "text": "  EN"
-      }
-    ]
-  },
-  {
-    "page": 0,
+    "page": 1,
     "node_id": "637",
     "date": "14  March,  2024",
     "parties": "Abbott Laboratories, Abbott Diabetes Care Inc., Abbott France, Abbott (S.V./N.V.), Abbott B.V., Abbott S.r.l., Abbott Scandinavia Aktiebolag, Abbott GmbH, Abbott Diagnostics GmbH, Abbott Logistics B.V.\nv.\nDexCom, Inc",
@@ -390,7 +435,27 @@
     ]
   },
   {
-    "page": 0,
+    "page": 1,
+    "node_id": "648",
+    "date": "14  March,  2024",
+    "parties": "Abbott Laboratories, Abbott Diabetes Care Inc., Abbott France, Abbott (S.V./N.V.), Abbott B.V., Abbott S.r.l., Abbott Scandinavia Aktiebolag, Abbott GmbH, Abbott Diagnostics GmbH, Abbott Logistics B.V.\nv.\nDexCom, Inc ",
+    "case_number": "",
+    "order_decision_reference": "ORD_16796/2024",
+    "type_of_action": "Decision By Default",
+    "court_division": "Court of Appeal - Luxembourg (LU)",
+    "language_of_proceedings": "English",
+    "headnotes": "Under Rule 220.2 RoP an appeal from an order without leave is inadmissible from the outset and, as such, cannot\nbe withdrawn.\n          \n        ",
+    "keywords": "Inadmissibility, leave to appeal.\n          \n        ",
+    "link": [
+      {
+        "href": "https://www.unified-patent-court.org//sites/default/files/files/api_order/32F3738613007CB6B5F4AC07A5CB2530_en.pdf",
+        "title": "32F3738613007CB6B5F4AC07A5CB2530_en.pdf",
+        "text": "  EN"
+      }
+    ]
+  },
+  {
+    "page": 1,
     "node_id": "621",
     "date": "14  March,  2024",
     "parties": "Laser Components SAS",
@@ -405,26 +470,6 @@
       {
         "href": "https://www.unified-patent-court.org//sites/default/files/files/api_order/DF5DB150860F3F0FCBA47E3BEFC20D30_fr.pdf",
         "title": "DF5DB150860F3F0FCBA47E3BEFC20D30_fr.pdf",
-        "text": "  EN"
-      }
-    ]
-  },
-  {
-    "page": 1,
-    "node_id": "649",
-    "date": "11  March,  2024",
-    "parties": "Netgear International Limited, NETGEAR Deutschland GmbH, Netgear Inc.\nv.\nHuawei Technologies Co. Ltd",
-    "case_number": "",
-    "order_decision_reference": "ORD_13025/2024",
-    "type_of_action": "Appeal RoP220.2",
-    "court_division": "Court of Appeal - Luxembourg (LU)",
-    "language_of_proceedings": "German",
-    "headnotes": "",
-    "keywords": "",
-    "link": [
-      {
-        "href": "https://www.unified-patent-court.org//sites/default/files/files/api_order/9B84129A4127809C2630FCB9DDDF1152_de.pdf",
-        "title": "9B84129A4127809C2630FCB9DDDF1152_de.pdf",
         "text": "  EN"
       }
     ]
@@ -465,6 +510,26 @@
       {
         "href": "https://www.unified-patent-court.org//sites/default/files/files/api_order/80FDD1E93D96B1D5B515011A2760EBAB_de.pdf",
         "title": "80FDD1E93D96B1D5B515011A2760EBAB_de.pdf",
+        "text": "  EN"
+      }
+    ]
+  },
+  {
+    "page": 1,
+    "node_id": "649",
+    "date": "11  March,  2024",
+    "parties": "Netgear International Limited, NETGEAR Deutschland GmbH, Netgear Inc.\nv.\nHuawei Technologies Co. Ltd",
+    "case_number": "",
+    "order_decision_reference": "ORD_13025/2024",
+    "type_of_action": "Appeal RoP220.2",
+    "court_division": "Court of Appeal - Luxembourg (LU)",
+    "language_of_proceedings": "German",
+    "headnotes": "",
+    "keywords": "",
+    "link": [
+      {
+        "href": "https://www.unified-patent-court.org//sites/default/files/files/api_order/9B84129A4127809C2630FCB9DDDF1152_de.pdf",
+        "title": "9B84129A4127809C2630FCB9DDDF1152_de.pdf",
         "text": "  EN"
       }
     ]
@@ -765,7 +830,7 @@
     ]
   },
   {
-    "page": 1,
+    "page": 2,
     "node_id": "609",
     "date": "26  February,  2024",
     "parties": "Curio Bioscience Inc. \nv.\n10x Genomics, Inc.",
@@ -785,7 +850,7 @@
     ]
   },
   {
-    "page": 1,
+    "page": 2,
     "node_id": "594",
     "date": "26  February,  2024",
     "parties": "Curio Bioscience Inc. \nv.\n10x Genomics, Inc.",
@@ -805,7 +870,7 @@
     ]
   },
   {
-    "page": 1,
+    "page": 2,
     "node_id": "575",
     "date": "26  February,  2024",
     "parties": "NanoString Technologies Inc.; NanoString Technologies Germany GmbH; NanoString Technologies Netherlands B.V. \nv.\n10x Genomics, Inc.; President and Fellows of Harvard College",
@@ -1170,7 +1235,7 @@
     ]
   },
   {
-    "page": 2,
+    "page": 3,
     "node_id": "627",
     "date": "20  February,  2024",
     "parties": "Roche Diabetes Care GmbH",
@@ -1190,7 +1255,7 @@
     ]
   },
   {
-    "page": 2,
+    "page": 3,
     "node_id": "588",
     "date": "20  February,  2024",
     "parties": "Roche Diabetes Care GmbH",
@@ -1210,7 +1275,7 @@
     ]
   },
   {
-    "page": 2,
+    "page": 3,
     "node_id": "587",
     "date": "19  February,  2024",
     "parties": "Huawei Technologies Co. Ltd\nv.\nNetgear Deutschland GmbH",
@@ -1580,7 +1645,7 @@
     ]
   },
   {
-    "page": 3,
+    "page": 4,
     "node_id": "560",
     "date": "29  January,  2024",
     "parties": "10x Genomics, Inc.\nv.\nCurio Bioscience Inc.",
@@ -1600,7 +1665,7 @@
     ]
   },
   {
-    "page": 3,
+    "page": 4,
     "node_id": "559",
     "date": "25  January,  2024",
     "parties": "Ortovox Sportartikel GmbH\nv.\nMammut Sports Group AG, Mammut Sports Group GmbH",
@@ -1620,7 +1685,7 @@
     ]
   },
   {
-    "page": 3,
+    "page": 4,
     "node_id": "558",
     "date": "25  January,  2024",
     "parties": "Fives ECL, SAS\nv.\nREEl GmbH",
@@ -1990,7 +2055,7 @@
     ]
   },
   {
-    "page": 4,
+    "page": 5,
     "node_id": "581",
     "date": "2  January,  2024",
     "parties": "Amgen Inc.\nv.\nSanofi-Aventis Deutschland GmbH, Sanofi-Aventis Groupe S.A., Sanofi Winthrop Industrie S.A., Regeneron Pharmaceuticals Inc.",
@@ -2010,7 +2075,7 @@
     ]
   },
   {
-    "page": 4,
+    "page": 5,
     "node_id": "534",
     "date": "2  January,  2024",
     "parties": "Amagen Inc.\nv.\nSanofi-Aventis Deutschland, Sanofi -Aventis Groupe S.A., Sanofi Winthrop Industrie S.A., Regeneron pharmaceuticals Inc.",
@@ -2030,7 +2095,7 @@
     ]
   },
   {
-    "page": 4,
+    "page": 5,
     "node_id": "531",
     "date": "28  December,  2023",
     "parties": "Mathys \u0026 Squire\nv.\nAstellas, Healios, Riken, Osaka University",
@@ -2405,7 +2470,7 @@
     ]
   },
   {
-    "page": 5,
+    "page": 6,
     "node_id": "509",
     "date": "5  December,  2023",
     "parties": "10xGenomics Inc., President and Fellows of Harvard College\nv.\nNanoString Technologies Inc. et al.",
@@ -2425,7 +2490,7 @@
     ]
   },
   {
-    "page": 5,
+    "page": 6,
     "node_id": "508",
     "date": "5  December,  2023",
     "parties": "Avago Technologies International Sales Pte. Limited\nv.\nTesla Germany GmbH",
@@ -2445,7 +2510,7 @@
     ]
   },
   {
-    "page": 5,
+    "page": 6,
     "node_id": "602",
     "date": "4  December,  2023",
     "parties": "***\nv.\nPROGRESS MASCHINEN \u0026 AUTOMATION AG, AWMS.R.L., SCHNELL S.P.A.",
@@ -2805,7 +2870,7 @@
     ]
   },
   {
-    "page": 6,
+    "page": 7,
     "node_id": "491",
     "date": "26  October,  2023",
     "parties": "10xGenomics, Inc., President and Fellows of Harvard College\nv.\nNanoString Technologies Inc. ",
@@ -2825,7 +2890,7 @@
     ]
   },
   {
-    "page": 6,
+    "page": 7,
     "node_id": "458",
     "date": "20  October,  2023",
     "parties": "AIM Sport Vision AG\nv.\nSupponor Oy, Limited, SASU, España SL, Italia SRL",
@@ -2845,7 +2910,7 @@
     ]
   },
   {
-    "page": 6,
+    "page": 7,
     "node_id": "457",
     "date": "18  October,  2023",
     "parties": "Plant-e Knowledge B.V., Plant-e B.V. \nv.\nArkyne Technologies S.L.",
@@ -3210,7 +3275,7 @@
     ]
   },
   {
-    "page": 7,
+    "page": 8,
     "node_id": "417",
     "date": "21  September,  2023",
     "parties": "ASTELLAS INSTITUTE FOR REGENERATIVE MEDICINE\nv.\nHEALIOS K.K, RIKEN, OSAKA UNIVERSITY",
@@ -3230,7 +3295,7 @@
     ]
   },
   {
-    "page": 7,
+    "page": 8,
     "node_id": "416",
     "date": "20  September,  2023",
     "parties": "Amgen, Inc.\nv.\nSanofi-Aventis Deutschland GmbH",
@@ -3250,7 +3315,7 @@
     ]
   },
   {
-    "page": 7,
+    "page": 8,
     "node_id": "419",
     "date": "19  September,  2023",
     "parties": "NanoString Technologies Inc., NanoStrings Technologies Germany GmbH, NanoString Technologies Netherlands B.V. \nv.\n10x Genomics, Inc., President and Fellows of Harvard College",
@@ -3620,7 +3685,7 @@
     ]
   },
   {
-    "page": 8,
+    "page": 9,
     "node_id": "387",
     "date": "1  August,  2023",
     "parties": "Edwards Lifesciences Corporation\nv.\nMeril GmbH and Meril Life Sciences Pvt Ltd.",
@@ -3640,7 +3705,7 @@
     ]
   },
   {
-    "page": 8,
+    "page": 9,
     "node_id": "413",
     "date": "28  July,  2023",
     "parties": "Amgen Inc. \nv.\nSanofi-Aventis Deutschland GmbH",
@@ -3660,7 +3725,7 @@
     ]
   },
   {
-    "page": 8,
+    "page": 9,
     "node_id": "397",
     "date": "21  July,  2023",
     "parties": "Oerlikon Textile GmbH \u0026 CO KG \nv.\nBhagat Group",
@@ -4020,7 +4085,7 @@
     ]
   },
   {
-    "page": 9,
+    "page": 10,
     "node_id": "374",
     "date": "23  June,  2023",
     "parties": "10x Genomics, Inc. \nv.\nNanoString Technologies Inc.",
@@ -4040,7 +4105,7 @@
     ]
   },
   {
-    "page": 9,
+    "page": 10,
     "node_id": "373",
     "date": "23  June,  2023",
     "parties": "10x Genomics, Inc. \nv.\nNanoString Technologies Inc.",
@@ -4060,7 +4125,7 @@
     ]
   },
   {
-    "page": 9,
+    "page": 10,
     "node_id": "488",
     "date": "22  June,  2023",
     "parties": "myStromer AG\nv.\nRevolt Zycling AG",
